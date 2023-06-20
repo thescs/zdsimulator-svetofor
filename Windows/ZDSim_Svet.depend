@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1687127343 source:c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\main.cpp
+	<iostream>
+	<Windows.h>
+	<TlHelp32.h>
+	<wininet.h>
+
+1685368312 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1685423810 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\curlver.h
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1685011888 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\easy.h
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\multi.h
+	"curl.h"
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\urlapi.h
+	"curl.h"
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\options.h
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\header.h
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\websockets.h
+
+1684144560 c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\curl\include\curl\typecheck-gcc.h
+
+1685361112 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1685416610 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\curlver.h
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1685004688 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\easy.h
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\multi.h
+	"curl.h"
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\options.h
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\header.h
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\websockets.h
+
+1684137360 c:\curl-8.1.2_3-win32-mingw\curl-8.1.2_3-win32-mingw\include\curl\typecheck-gcc.h
+
+1687127894 source:c:\users\ִלטענטי\documents\zdsim_svet\zdsim_svet\icon.rc
+
