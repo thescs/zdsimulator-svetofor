@@ -33,9 +33,18 @@ bool SendHttpRequest(const std::string& url)
     return true;
 }
 
-int main()
+int main(int argc, char* argv[])
 {
-    const char* title = "Locomotive lights app for ZDSimulator 55.008 - v.0.1"; // Замените на нужный заголовок
+    // Проверяем, был ли передан аргумент командной строки
+    if (argc != 2)
+    {
+        std::cout << "Usage: " << argv[0] << " <url>" << std::endl;
+        return 1;
+    }
+
+    const char* title = "Locomotive lights app for ZDSimulator 55.008 - v.0.2"; // Замените на нужный заголовок
+
+    std::string url = argv[1]; // Получаем значение url из аргумента командной строки
 
     if (!SetConsoleTitleA(title))
     {
@@ -101,9 +110,6 @@ int main()
         if (currValue != prevValue)
         {
             std::cout << "Changes detected, code: " << currValue << std::endl;
-
-            // Формируем полный URL с новым значением
-            std::string url = "http://192.168.88.74:8000/" + std::to_string(currValue);
 
             // Отправляем HTTP-запрос
             if (!SendHttpRequest(url))
